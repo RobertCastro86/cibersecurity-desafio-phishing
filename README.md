@@ -19,3 +19,11 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
+### O Kali Linux é uma ferramenta poderosa para profissionais de segurança cibernética. 
+
+### Ele pode ser utilizado para:
+
+- Simular ataques: Criar cenários de ataque controlados em um ambiente seguro para testar a segurança de sistemas.
+- Analisar redes: Identificar vulnerabilidades em redes e sistemas.
+- Desenvolver ferramentas de segurança: Criar novas ferramentas e scripts para melhorar a segurança.
